@@ -1,0 +1,75 @@
+\select@language {magyar}
+\contentsline {chapter}{\numberline {1.}Bevezet\IeC {\'e}s}{5}{chapter*.1}
+\contentsline {chapter}{\numberline {2.}K\IeC {\"o}vetelm\IeC {\'e}ny le\IeC {\'\i }r\IeC {\'a}s}{7}{chapter*.1}
+\contentsline {section}{\numberline {2.1.}Funkcion\IeC {\'a}lis k\IeC {\"o}vetelm\IeC {\'e}nyek}{7}{section*.2}
+\contentsline {subsection}{\numberline {2.1.1.}Felhaszn\IeC {\'a}l\IeC {\'o}i kezel\IeC {\'e}s}{7}{section*.2}
+\contentsline {paragraph}{Azonos\IeC {\'\i }t\IeC {\'a}s}{7}{section*.2}
+\contentsline {paragraph}{Session}{7}{section*.2}
+\contentsline {paragraph}{Regisztr\IeC {\'a}ci\IeC {\'o}}{7}{section*.2}
+\contentsline {subsection}{\numberline {2.1.2.}Kamera kezel\IeC {\'e}s}{8}{section*.2}
+\contentsline {paragraph}{Felvitel}{8}{section*.2}
+\contentsline {paragraph}{\IeC {\'A}llapot}{8}{section*.2}
+\contentsline {paragraph}{Moblit\IeC {\'a}s}{8}{section*.2}
+\contentsline {paragraph}{Video stream}{8}{section*.2}
+\contentsline {paragraph}{M\IeC {\'o}dos\IeC {\'\i }t\IeC {\'a}s}{8}{section*.2}
+\contentsline {subsection}{\numberline {2.1.3.}Esem\IeC {\'e}ny kezel\IeC {\'e}s}{9}{section*.2}
+\contentsline {paragraph}{L\IeC {\'e}trehoz\IeC {\'a}s}{9}{section*.2}
+\contentsline {paragraph}{M\IeC {\'o}dos\IeC {\'\i }t\IeC {\'a}s}{9}{section*.2}
+\contentsline {paragraph}{Megtekint\IeC {\'e}s}{9}{section*.2}
+\contentsline {subsection}{\numberline {2.1.4.}S\IeC {\'u}g\IeC {\'o}}{9}{section*.2}
+\contentsline {subsection}{\numberline {2.1.5.}F\IeC {\H o}oldal}{9}{section*.2}
+\contentsline {section}{\numberline {2.2.}Nem funkcion\IeC {\'a}lis k\IeC {\"o}vetelm\IeC {\'e}ny}{10}{section*.2}
+\contentsline {subsection}{\numberline {2.2.1.}Term\IeC {\'e}k k\IeC {\"o}vetelm\IeC {\'e}ny}{10}{section*.3}
+\contentsline {subsection}{\numberline {2.2.2.}Szervezeti k\IeC {\"o}vetelm\IeC {\'e}ny}{10}{section*.3}
+\contentsline {chapter}{\numberline {3.}Rendszerterv}{11}{section*.3}
+\contentsline {section}{\numberline {3.1.}Kliens Szerver architekt\IeC {\'u}ra}{11}{section*.4}
+\contentsline {paragraph}{Kliensek}{11}{section*.4}
+\contentsline {paragraph}{Kiszolg\IeC {\'a}l\IeC {\'o} - Szerver}{12}{section*.4}
+\contentsline {section}{\numberline {3.2.}Adatt\IeC {\'a}rol\IeC {\'a}s}{13}{section*.4}
+\contentsline {subsection}{\numberline {3.2.1.}MySQL}{13}{section*.5}
+\contentsline {subsection}{\numberline {3.2.2.}Spatialite}{13}{section*.5}
+\contentsline {subsection}{\numberline {3.2.3.}PostgreSQL - Postgis}{13}{section*.5}
+\contentsline {section}{\numberline {3.3.}Kliens oldali vektoros megjelen\IeC {\'\i }t\IeC {\H o} \IeC {\'e}s szerkeszt\IeC {\H o}}{14}{section*.5}
+\contentsline {section}{\numberline {3.4.}Webes keretrendszer}{16}{section*.5}
+\contentsline {subsection}{\numberline {3.4.1.}Akelos}{16}{section*.6}
+\contentsline {subsection}{\numberline {3.4.2.}JEE}{16}{section*.6}
+\contentsline {subsection}{\numberline {3.4.3.}Flash CS4}{17}{section*.6}
+\contentsline {subsection}{\numberline {3.4.4.}Ruby on Rails}{17}{section*.6}
+\contentsline {paragraph}{Technikai h\IeC {\'a}tt\IeC {\'e}r}{17}{section*.6}
+\contentsline {paragraph}{Az alkalmaz\IeC {\'a}s futtat\IeC {\'a}sa}{17}{section*.6}
+\contentsline {paragraph}{Keretrendszer strukt\IeC {\'u}r\IeC {\'a}ja}{17}{section*.6}
+\contentsline {paragraph}{Az MVC architekt\IeC {\'u}ra}{18}{section*.6}
+\contentsline {section}{\numberline {3.5.}Projekt strukt\IeC {\'u}ra}{18}{section*.6}
+\contentsline {subsection}{\numberline {3.5.1.}db k\IeC {\"o}nyvt\IeC {\'a}r}{19}{section*.7}
+\contentsline {subsection}{\numberline {3.5.2.}app k\IeC {\"o}nyvt\IeC {\'a}r}{19}{lstlisting.3.-1}
+\contentsline {paragraph}{Camera ActiveRecord}{20}{lstlisting.3.-1}
+\contentsline {paragraph}{Scenario ActiveRecord}{20}{lstlisting.3.-1}
+\contentsline {paragraph}{Camera Controller}{20}{lstlisting.3.-1}
+\contentsline {paragraph}{Scenario Controller}{20}{lstlisting.3.-1}
+\contentsline {paragraph}{Application Helper}{21}{lstlisting.3.-1}
+\contentsline {subsection}{\numberline {3.5.3.}public k\IeC {\"o}nyvt\IeC {\'a}r}{21}{lstlisting.3.-1}
+\contentsline {paragraph}{JQuery}{21}{lstlisting.3.-1}
+\contentsline {section}{\numberline {3.6.}T\IeC {\'e}rk\IeC {\'e}p szerver}{21}{lstlisting.3.-1}
+\contentsline {paragraph}{GeoServer}{21}{lstlisting.3.-1}
+\contentsline {paragraph}{C\IeC {\'e}lja}{21}{lstlisting.3.-1}
+\contentsline {paragraph}{Tulajdons\IeC {\'a}gai}{22}{lstlisting.3.-1}
+\contentsline {chapter}{\numberline {4.}Felhaszn\IeC {\'a}l\IeC {\'o}i le\IeC {\'\i }r\IeC {\'a}s}{23}{lstlisting.3.-1}
+\contentsline {section}{\numberline {4.1.}Hardver k\IeC {\"o}vetelm\IeC {\'e}nyek}{23}{section*.8}
+\contentsline {section}{\numberline {4.2.}Alkalmaz\IeC {\'a}s telep\IeC {\'\i }t\IeC {\'e}se \IeC {\'e}s ind\IeC {\'\i }t\IeC {\'a}sa}{23}{section*.8}
+\contentsline {subsection}{\numberline {4.2.1.}Ruby interpreter telep\IeC {\'\i }t\IeC {\'e}se}{24}{section*.9}
+\contentsline {subsection}{\numberline {4.2.2.}Rails telep\IeC {\'\i }t\IeC {\'e}se}{24}{section*.9}
+\contentsline {subsection}{\numberline {4.2.3.}PostgreSQL \IeC {\'e}s Postgis telep\IeC {\'\i }t\IeC {\'e}se}{24}{section*.9}
+\contentsline {subsection}{\numberline {4.2.4.}GeoServer telep\IeC {\'\i }t\IeC {\'e}se}{25}{section*.9}
+\contentsline {subsection}{\numberline {4.2.5.}Forr\IeC {\'a}sk\IeC {\'o}d kl\IeC {\'o}noz\IeC {\'a}sa}{25}{section*.9}
+\contentsline {subsection}{\numberline {4.2.6.}Kieg\IeC {\'e}sz\IeC {\'\i }t\IeC {\H o} Gem csomagok telep\IeC {\'\i }t\IeC {\'e}se}{26}{section*.9}
+\contentsline {paragraph}{bundle}{26}{section*.9}
+\contentsline {paragraph}{db:migrate}{26}{section*.9}
+\contentsline {subsection}{\numberline {4.2.7.}Alkalmaz\IeC {\'a}s ind\IeC {\'\i }t\IeC {\'a}sa}{26}{section*.9}
+\contentsline {paragraph}{rails server}{26}{section*.9}
+\contentsline {paragraph}{-p 8000}{26}{section*.9}
+\contentsline {section}{\numberline {4.3.}Alkalmaz\IeC {\'a}s haszn\IeC {\'a}lata}{26}{section*.9}
+\contentsline {subsection}{\numberline {4.3.1.}F\IeC {\H o}oldal}{26}{section*.10}
+\contentsline {subsection}{\numberline {4.3.2.}Bejelentkez\IeC {\'e}s \IeC {\'e}s regisztr\IeC {\'a}ci\IeC {\'o}}{27}{section*.10}
+\contentsline {subsection}{\numberline {4.3.3.}Kamera n\IeC {\'e}zet}{27}{section*.10}
+\contentsline {subsection}{\numberline {4.3.4.}Esem\IeC {\'e}ny n\IeC {\'e}zet}{28}{section*.10}
+\contentsline {subsection}{\numberline {4.3.5.}Help n\IeC {\'e}zet}{30}{section*.10}

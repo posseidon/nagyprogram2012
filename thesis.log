@@ -1,0 +1,1056 @@
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009) (format=pdflatex 2010.4.21)  30 MAY 2012 20:24
+entering extended mode
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**thesis.tex
+(./thesis.tex
+LaTeX2e <2009/09/24>
+Babel <v3.8l> and hyphenation patterns for english, usenglishmax, dumylang, noh
+yphenation, german-x-2009-06-19, ngerman-x-2009-06-19, ancientgreek, ibycus, ar
+abic, basque, bulgarian, catalan, pinyin, coptic, croatian, czech, danish, dutc
+h, esperanto, estonian, farsi, finnish, french, galician, german, ngerman, mono
+greek, greek, hungarian, icelandic, indonesian, interlingua, irish, italian, ku
+rmanji, latin, latvian, lithuanian, mongolian, mongolian2a, bokmal, nynorsk, po
+lish, portuguese, romanian, russian, sanskrit, serbian, slovak, slovenian, span
+ish, swedish, turkish, ukenglish, ukrainian, uppersorbian, welsh, loaded.
+(/usr/local/texlive/2009/texmf-dist/tex/latex/base/book.cls
+Document Class: book 2007/10/19 v1.4h Standard LaTeX document class
+(/usr/local/texlive/2009/texmf-dist/tex/latex/base/bk10.clo
+File: bk10.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@chapter=\count80
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@subparagraph=\count85
+\c@figure=\count86
+\c@table=\count87
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+) (./yanthese.sty
+Package: yanthese 
+
+(/usr/local/texlive/2009/texmf-dist/tex/latex/setspace/setspace.sty
+Package: setspace 2000/12/01 6.7 Contributed and Supported LaTeX2e package
+
+Package: `setspace' 6.7 <2000/12/01>
+) (/usr/local/texlive/2009/texmf-dist/tex/latex/tools/enumerate.sty
+Package: enumerate 1999/03/05 v3.00 enumerate extensions (DPC)
+\@enLab=\toks14
+)
+(/usr/local/texlive/2009/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2009/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
+\KV@toks@=\toks15
+)
+(/usr/local/texlive/2009/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2009/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+(/usr/local/texlive/2009/texmf-dist/tex/latex/latexconfig/graphics.cfg
+File: graphics.cfg 2009/08/28 v1.8 graphics configuration of TeX Live
+)
+Package graphics Info: Driver file: pdftex.def on input line 91.
+
+(/usr/local/texlive/2009/texmf-dist/tex/latex/pdftex-def/pdftex.def
+File: pdftex.def 2009/08/25 v0.04m Graphics/color for pdfTeX
+\Gread@gobject=\count88
+))
+\Gin@req@height=\dimen103
+\Gin@req@width=\dimen104
+)
+(/usr/local/texlive/2009/texmf-dist/tex/latex/graphics/color.sty
+Package: color 2005/11/14 v1.0j Standard LaTeX Color (DPC)
+
+(/usr/local/texlive/2009/texmf-dist/tex/latex/latexconfig/color.cfg
+File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
+)
+Package color Info: Driver file: pdftex.def on input line 130.
+)
+(/usr/local/texlive/2009/texmf-dist/tex/generic/babel/babel.sty
+Package: babel 2008/07/06 v3.8l The Babel package
+
+(/usr/local/texlive/2009/texmf-dist/tex/generic/babel/english.ldf
+Language: english 2005/03/30 v3.3o English support from the babel system
+
+(/usr/local/texlive/2009/texmf-dist/tex/generic/babel/babel.def
+File: babel.def 2008/07/06 v3.8l Babel common definitions
+\babel@savecnt=\count89
+\U@D=\dimen105
+)
+\l@canadian = a dialect from \language\l@american 
+\l@australian = a dialect from \language\l@british 
+\l@newzealand = a dialect from \language\l@british 
+)
+(/usr/local/texlive/2009/texmf-dist/tex/generic/babel/magyar.ldf
+Language: magyar 2005/03/30 v1.4j Magyar support from the babel system
+Package babel Info: Making ` an active character on input line 597.
+))
+(/usr/local/texlive/2009/texmf-dist/tex/latex/base/inputenc.sty
+Package: inputenc 2008/03/30 v1.1d Input encoding file
+\inpenc@prehook=\toks16
+\inpenc@posthook=\toks17
+
+(/usr/local/texlive/2009/texmf-dist/tex/latex/base/utf8.def
+File: utf8.def 2008/04/05 v1.1m UTF-8 support for inputenc
+Now handling font encoding OML ...
+... no UTF-8 mapping file for font encoding OML
+Now handling font encoding T1 ...
+... processing UTF-8 mapping file for font encoding T1
+
+(/usr/local/texlive/2009/texmf-dist/tex/latex/base/t1enc.dfu
+File: t1enc.dfu 2008/04/05 v1.1m UTF-8 support for inputenc
+   defining Unicode char U+00A1 (decimal 161)
+   defining Unicode char U+00A3 (decimal 163)
+   defining Unicode char U+00AB (decimal 171)
+   defining Unicode char U+00BB (decimal 187)
+   defining Unicode char U+00BF (decimal 191)
+   defining Unicode char U+00C0 (decimal 192)
+   defining Unicode char U+00C1 (decimal 193)
+   defining Unicode char U+00C2 (decimal 194)
+   defining Unicode char U+00C3 (decimal 195)
+   defining Unicode char U+00C4 (decimal 196)
+   defining Unicode char U+00C5 (decimal 197)
+   defining Unicode char U+00C6 (decimal 198)
+   defining Unicode char U+00C7 (decimal 199)
+   defining Unicode char U+00C8 (decimal 200)
+   defining Unicode char U+00C9 (decimal 201)
+   defining Unicode char U+00CA (decimal 202)
+   defining Unicode char U+00CB (decimal 203)
+   defining Unicode char U+00CC (decimal 204)
+   defining Unicode char U+00CD (decimal 205)
+   defining Unicode char U+00CE (decimal 206)
+   defining Unicode char U+00CF (decimal 207)
+   defining Unicode char U+00D0 (decimal 208)
+   defining Unicode char U+00D1 (decimal 209)
+   defining Unicode char U+00D2 (decimal 210)
+   defining Unicode char U+00D3 (decimal 211)
+   defining Unicode char U+00D4 (decimal 212)
+   defining Unicode char U+00D5 (decimal 213)
+   defining Unicode char U+00D6 (decimal 214)
+   defining Unicode char U+00D8 (decimal 216)
+   defining Unicode char U+00D9 (decimal 217)
+   defining Unicode char U+00DA (decimal 218)
+   defining Unicode char U+00DB (decimal 219)
+   defining Unicode char U+00DC (decimal 220)
+   defining Unicode char U+00DD (decimal 221)
+   defining Unicode char U+00DE (decimal 222)
+   defining Unicode char U+00DF (decimal 223)
+   defining Unicode char U+00E0 (decimal 224)
+   defining Unicode char U+00E1 (decimal 225)
+   defining Unicode char U+00E2 (decimal 226)
+   defining Unicode char U+00E3 (decimal 227)
+   defining Unicode char U+00E4 (decimal 228)
+   defining Unicode char U+00E5 (decimal 229)
+   defining Unicode char U+00E6 (decimal 230)
+   defining Unicode char U+00E7 (decimal 231)
+   defining Unicode char U+00E8 (decimal 232)
+   defining Unicode char U+00E9 (decimal 233)
+   defining Unicode char U+00EA (decimal 234)
+   defining Unicode char U+00EB (decimal 235)
+   defining Unicode char U+00EC (decimal 236)
+   defining Unicode char U+00ED (decimal 237)
+   defining Unicode char U+00EE (decimal 238)
+   defining Unicode char U+00EF (decimal 239)
+   defining Unicode char U+00F0 (decimal 240)
+   defining Unicode char U+00F1 (decimal 241)
+   defining Unicode char U+00F2 (decimal 242)
+   defining Unicode char U+00F3 (decimal 243)
+   defining Unicode char U+00F4 (decimal 244)
+   defining Unicode char U+00F5 (decimal 245)
+   defining Unicode char U+00F6 (decimal 246)
+   defining Unicode char U+00F8 (decimal 248)
+   defining Unicode char U+00F9 (decimal 249)
+   defining Unicode char U+00FA (decimal 250)
+   defining Unicode char U+00FB (decimal 251)
+   defining Unicode char U+00FC (decimal 252)
+   defining Unicode char U+00FD (decimal 253)
+   defining Unicode char U+00FE (decimal 254)
+   defining Unicode char U+00FF (decimal 255)
+   defining Unicode char U+0102 (decimal 258)
+   defining Unicode char U+0103 (decimal 259)
+   defining Unicode char U+0104 (decimal 260)
+   defining Unicode char U+0105 (decimal 261)
+   defining Unicode char U+0106 (decimal 262)
+   defining Unicode char U+0107 (decimal 263)
+   defining Unicode char U+010C (decimal 268)
+   defining Unicode char U+010D (decimal 269)
+   defining Unicode char U+010E (decimal 270)
+   defining Unicode char U+010F (decimal 271)
+   defining Unicode char U+0110 (decimal 272)
+   defining Unicode char U+0111 (decimal 273)
+   defining Unicode char U+0118 (decimal 280)
+   defining Unicode char U+0119 (decimal 281)
+   defining Unicode char U+011A (decimal 282)
+   defining Unicode char U+011B (decimal 283)
+   defining Unicode char U+011E (decimal 286)
+   defining Unicode char U+011F (decimal 287)
+   defining Unicode char U+0130 (decimal 304)
+   defining Unicode char U+0131 (decimal 305)
+   defining Unicode char U+0132 (decimal 306)
+   defining Unicode char U+0133 (decimal 307)
+   defining Unicode char U+0139 (decimal 313)
+   defining Unicode char U+013A (decimal 314)
+   defining Unicode char U+013D (decimal 317)
+   defining Unicode char U+013E (decimal 318)
+   defining Unicode char U+0141 (decimal 321)
+   defining Unicode char U+0142 (decimal 322)
+   defining Unicode char U+0143 (decimal 323)
+   defining Unicode char U+0144 (decimal 324)
+   defining Unicode char U+0147 (decimal 327)
+   defining Unicode char U+0148 (decimal 328)
+   defining Unicode char U+014A (decimal 330)
+   defining Unicode char U+014B (decimal 331)
+   defining Unicode char U+0150 (decimal 336)
+   defining Unicode char U+0151 (decimal 337)
+   defining Unicode char U+0152 (decimal 338)
+   defining Unicode char U+0153 (decimal 339)
+   defining Unicode char U+0154 (decimal 340)
+   defining Unicode char U+0155 (decimal 341)
+   defining Unicode char U+0158 (decimal 344)
+   defining Unicode char U+0159 (decimal 345)
+   defining Unicode char U+015A (decimal 346)
+   defining Unicode char U+015B (decimal 347)
+   defining Unicode char U+015E (decimal 350)
+   defining Unicode char U+015F (decimal 351)
+   defining Unicode char U+0160 (decimal 352)
+   defining Unicode char U+0161 (decimal 353)
+   defining Unicode char U+0162 (decimal 354)
+   defining Unicode char U+0163 (decimal 355)
+   defining Unicode char U+0164 (decimal 356)
+   defining Unicode char U+0165 (decimal 357)
+   defining Unicode char U+016E (decimal 366)
+   defining Unicode char U+016F (decimal 367)
+   defining Unicode char U+0170 (decimal 368)
+   defining Unicode char U+0171 (decimal 369)
+   defining Unicode char U+0178 (decimal 376)
+   defining Unicode char U+0179 (decimal 377)
+   defining Unicode char U+017A (decimal 378)
+   defining Unicode char U+017B (decimal 379)
+   defining Unicode char U+017C (decimal 380)
+   defining Unicode char U+017D (decimal 381)
+   defining Unicode char U+017E (decimal 382)
+   defining Unicode char U+200C (decimal 8204)
+   defining Unicode char U+2013 (decimal 8211)
+   defining Unicode char U+2014 (decimal 8212)
+   defining Unicode char U+2018 (decimal 8216)
+   defining Unicode char U+2019 (decimal 8217)
+   defining Unicode char U+201A (decimal 8218)
+   defining Unicode char U+201C (decimal 8220)
+   defining Unicode char U+201D (decimal 8221)
+   defining Unicode char U+201E (decimal 8222)
+   defining Unicode char U+2030 (decimal 8240)
+   defining Unicode char U+2031 (decimal 8241)
+   defining Unicode char U+2039 (decimal 8249)
+   defining Unicode char U+203A (decimal 8250)
+   defining Unicode char U+2423 (decimal 9251)
+)
+Now handling font encoding OT1 ...
+... processing UTF-8 mapping file for font encoding OT1
+
+(/usr/local/texlive/2009/texmf-dist/tex/latex/base/ot1enc.dfu
+File: ot1enc.dfu 2008/04/05 v1.1m UTF-8 support for inputenc
+   defining Unicode char U+00A1 (decimal 161)
+   defining Unicode char U+00A3 (decimal 163)
+   defining Unicode char U+00B8 (decimal 184)
+   defining Unicode char U+00BF (decimal 191)
+   defining Unicode char U+00C5 (decimal 197)
+   defining Unicode char U+00C6 (decimal 198)
+   defining Unicode char U+00D8 (decimal 216)
+   defining Unicode char U+00DF (decimal 223)
+   defining Unicode char U+00E6 (decimal 230)
+   defining Unicode char U+00EC (decimal 236)
+   defining Unicode char U+00ED (decimal 237)
+   defining Unicode char U+00EE (decimal 238)
+   defining Unicode char U+00EF (decimal 239)
+   defining Unicode char U+00F8 (decimal 248)
+   defining Unicode char U+0131 (decimal 305)
+   defining Unicode char U+0141 (decimal 321)
+   defining Unicode char U+0142 (decimal 322)
+   defining Unicode char U+0152 (decimal 338)
+   defining Unicode char U+0153 (decimal 339)
+   defining Unicode char U+2013 (decimal 8211)
+   defining Unicode char U+2014 (decimal 8212)
+   defining Unicode char U+2018 (decimal 8216)
+   defining Unicode char U+2019 (decimal 8217)
+   defining Unicode char U+201C (decimal 8220)
+   defining Unicode char U+201D (decimal 8221)
+)
+Now handling font encoding OMS ...
+... processing UTF-8 mapping file for font encoding OMS
+
+(/usr/local/texlive/2009/texmf-dist/tex/latex/base/omsenc.dfu
+File: omsenc.dfu 2008/04/05 v1.1m UTF-8 support for inputenc
+   defining Unicode char U+00A7 (decimal 167)
+   defining Unicode char U+00B6 (decimal 182)
+   defining Unicode char U+00B7 (decimal 183)
+   defining Unicode char U+2020 (decimal 8224)
+   defining Unicode char U+2021 (decimal 8225)
+   defining Unicode char U+2022 (decimal 8226)
+)
+Now handling font encoding OMX ...
+... no UTF-8 mapping file for font encoding OMX
+Now handling font encoding U ...
+... no UTF-8 mapping file for font encoding U
+   defining Unicode char U+00A9 (decimal 169)
+   defining Unicode char U+00AA (decimal 170)
+   defining Unicode char U+00AE (decimal 174)
+   defining Unicode char U+00BA (decimal 186)
+   defining Unicode char U+02C6 (decimal 710)
+   defining Unicode char U+02DC (decimal 732)
+   defining Unicode char U+200C (decimal 8204)
+   defining Unicode char U+2026 (decimal 8230)
+   defining Unicode char U+2122 (decimal 8482)
+   defining Unicode char U+2423 (decimal 9251)
+))
+(/usr/local/texlive/2009/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2005/09/27 v1.99g Standard LaTeX package
+
+(/usr/local/texlive/2009/texmf-dist/tex/latex/base/t1enc.def
+File: t1enc.def 2005/09/27 v1.99g Standard LaTeX file
+LaTeX Font Info:    Redeclaring font encoding T1 on input line 43.
+))
+(/usr/local/texlive/2009/texmf-dist/tex/latex/tipa/tipa.sty
+Package: tipa 2002/08/08 TIPA version 1.1
+
+(/usr/local/texlive/2009/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2005/09/27 v1.99g Standard LaTeX package
+
+(/usr/local/texlive/2009/texmf-dist/tex/latex/tipa/t3enc.def
+File: t3enc.def 2001/12/31 T3 encoding
+Now handling font encoding T3 ...
+... no UTF-8 mapping file for font encoding T3
+LaTeX Font Info:    Try loading font information for T1+cmss on input line 357.
+
+
+(/usr/local/texlive/2009/texmf-dist/tex/latex/base/t1cmss.fd
+File: t1cmss.fd 1999/05/25 v2.5h Standard LaTeX font definitions
+))
+(/usr/local/texlive/2009/texmf-dist/tex/latex/base/t1enc.def
+File: t1enc.def 2005/09/27 v1.99g Standard LaTeX file
+LaTeX Font Info:    Redeclaring font encoding T1 on input line 43.
+)))
+(/usr/local/texlive/2009/texmf-dist/tex/latex/epigraph/epigraph.sty
+Package: epigraph 2009/09/02 v1.5c typesetting epigraphs
+\beforeepigraphskip=\skip43
+\afterepigraphskip=\skip44
+\epigraphwidth=\skip45
+\epigraphrule=\skip46
+)
+(/usr/local/texlive/2009/texmf-dist/tex/latex/lettrine/lettrine.sty
+File: lettrine.sty 2007/08/08 v1.62 (Daniel Flipo)
+\c@DefaultLines=\count90
+\DefaultFindent=\dimen106
+\DefaultNindent=\dimen107
+\DefaultSlope=\dimen108
+\L@lbox=\box26
+\L@tbox=\box27
+\c@L@lines=\count91
+\L@Pindent=\dimen109
+\L@Findent=\dimen110
+\L@Nindent=\dimen111
+\L@lraise=\dimen112
+\L@first=\dimen113
+\L@next=\dimen114
+\L@slope=\dimen115
+\L@height=\dimen116
+\LettrineWidth=\dimen117
+
+Loading lettrine.cfg
+(/usr/local/texlive/2009/texmf-dist/tex/latex/lettrine/lettrine.cfg))
+(/usr/local/texlive/2009/texmf-dist/tex/latex/sectsty/sectsty.sty
+Package: sectsty 2002/02/25 v2.0.2 Commands to change all sectional heading sty
+les
+)
+(/usr/local/texlive/2009/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
+\fancy@headwidth=\skip47
+\f@ncyO@elh=\skip48
+\f@ncyO@erh=\skip49
+\f@ncyO@olh=\skip50
+\f@ncyO@orh=\skip51
+\f@ncyO@elf=\skip52
+\f@ncyO@erf=\skip53
+\f@ncyO@olf=\skip54
+\f@ncyO@orf=\skip55
+)
+(/usr/local/texlive/2009/texmf-dist/tex/latex/tocloft/tocloft.sty
+Package: tocloft 2009/09/04 v2.3d parameterised ToC, etc., typesetting
+
+
+Package tocloft Note: The document has chapter divisions.
+
+\cftparskip=\skip56
+\cftbeforetoctitleskip=\skip57
+\cftaftertoctitleskip=\skip58
+\cftbeforepartskip=\skip59
+\cftpartnumwidth=\skip60
+\cftpartindent=\skip61
+\cftbeforechapskip=\skip62
+\cftchapindent=\skip63
+\cftchapnumwidth=\skip64
+\cftbeforesecskip=\skip65
+\cftsecindent=\skip66
+\cftsecnumwidth=\skip67
+\cftbeforesubsecskip=\skip68
+\cftsubsecindent=\skip69
+\cftsubsecnumwidth=\skip70
+\cftbeforesubsubsecskip=\skip71
+\cftsubsubsecindent=\skip72
+\cftsubsubsecnumwidth=\skip73
+\cftbeforeparaskip=\skip74
+\cftparaindent=\skip75
+\cftparanumwidth=\skip76
+\cftbeforesubparaskip=\skip77
+\cftsubparaindent=\skip78
+\cftsubparanumwidth=\skip79
+\cftbeforeloftitleskip=\skip80
+\cftafterloftitleskip=\skip81
+\cftbeforefigskip=\skip82
+\cftfigindent=\skip83
+\cftfignumwidth=\skip84
+\c@lofdepth=\count92
+\c@lotdepth=\count93
+\cftbeforelottitleskip=\skip85
+\cftafterlottitleskip=\skip86
+\cftbeforetabskip=\skip87
+\cfttabindent=\skip88
+\cfttabnumwidth=\skip89
+) (/usr/local/texlive/2009/texmf-dist/tex/latex/jurabib/jurabib.sty
+Package: jurabib 2004/01/25 v0.6 Extended citations
+
+(/usr/local/texlive/2009/texmf-dist/tex/latex/base/ifthen.sty
+Package: ifthen 2001/05/26 v1.1c Standard LaTeX ifthen package (DPC)
+)
+(/usr/local/texlive/2009/texmf-dist/tex/latex/tools/calc.sty
+Package: calc 2007/08/22 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count94
+\calc@Bcount=\count95
+\calc@Adimen=\dimen118
+\calc@Bdimen=\dimen119
+\calc@Askip=\skip90
+\calc@Bskip=\skip91
+LaTeX Info: Redefining \setlength on input line 76.
+LaTeX Info: Redefining \addtolength on input line 77.
+\calc@Ccount=\count96
+\calc@Cskip=\skip92
+)
+(/usr/local/texlive/2009/texmf-dist/tex/latex/ltxmisc/url.sty
+\Urlmuskip=\muskip10
+Package: url 2006/04/12  ver 3.3  Verb mode for urls, etc.
+)
+(/usr/local/texlive/2009/texmf-dist/tex/latex/tools/array.sty
+Package: array 2008/09/09 v2.4c Tabular extension package (FMi)
+\col@sep=\dimen120
+\extrarowheight=\dimen121
+\NC@list=\toks18
+\extratabsurround=\skip93
+\backup@length=\skip94
+)
+\c@ibidem@author=\count97
+\c@multiple@author=\count98
+LaTeX Info: Redefining \jbarchnameformat on input line 945.
+\jb@subarchitemwidth=\skip95
+\jb@subarchentrywidth=\skip96
+LaTeX Info: Redefining \jbapifont on input line 1216.
+\jb@urlfile=\write3
+ (./thesis.url)
+\jb@tempfile=\read1
+\openout3 = `thesis.url'.
+
+\c@jbbibcnt=\count99
+\c@jbbibcnta=\count100
+\c@idemcnt=\count101
+\c@bibnamereplace=\count102
+\c@citefull=\count103
+\c@opcit=\count104
+\c@jb@cites@in@footnote=\count105
+\jbbibhang=\skip97
+\bibnumberwidth=\skip98
+\jb@biblaw@entry@width=\skip99
+\jb@biblaw@item@width=\skip100
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 3438.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 3438.
+LaTeX Info: Redefining \cite on input line 3744.
+\jb@length@i=\skip101
+\jb@length@ii=\skip102
+\jb@length@iii=\skip103
+\jb@temptoks=\toks19
+\jbedwidth=\skip104
+\jb@ta=\toks20
+\jb@tb=\toks21
+
+Package jurabib Info: *** Local config file `jurabib.cfg' used ***
+
+(/usr/local/texlive/2009/texmf-dist/tex/latex/jurabib/jurabib.cfg
+File: jurabib.cfg jurabib local configuration file
+))
+(/usr/local/texlive/2009/texmf-dist/tex/latex/hyperref/hyperref.sty
+Package: hyperref 2009/10/09 v6.79a Hypertext links for LaTeX
+
+(/usr/local/texlive/2009/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2009/04/10 v2.0 Provides the ifpdf switch (HO)
+Package ifpdf Info: pdfTeX in pdf mode detected.
+)
+(/usr/local/texlive/2009/texmf-dist/tex/generic/oberdiek/ifvtex.sty
+Package: ifvtex 2008/11/04 v1.4 Switches for detecting VTeX and its modes (HO)
+Package ifvtex Info: VTeX not detected.
+)
+(/usr/local/texlive/2009/texmf-dist/tex/generic/ifxetex/ifxetex.sty
+Package: ifxetex 2009/01/23 v0.5 Provides ifxetex conditional
+)
+(/usr/local/texlive/2009/texmf-dist/tex/latex/oberdiek/hycolor.sty
+Package: hycolor 2009/10/02 v1.5 Code for color options of hyperref/bookmark (H
+O)
+
+(/usr/local/texlive/2009/texmf-dist/tex/latex/oberdiek/xcolor-patch.sty
+Package: xcolor-patch 2009/10/02 xcolor patch
+))
+\@linkdim=\dimen122
+\Hy@linkcounter=\count106
+\Hy@pagecounter=\count107
+
+(/usr/local/texlive/2009/texmf-dist/tex/latex/hyperref/pd1enc.def
+File: pd1enc.def 2009/10/09 v6.79a Hyperref: PDFDocEncoding definition (HO)
+Now handling font encoding PD1 ...
+... no UTF-8 mapping file for font encoding PD1
+)
+(/usr/local/texlive/2009/texmf-dist/tex/generic/oberdiek/etexcmds.sty
+Package: etexcmds 2007/12/12 v1.2 Prefix for e-TeX command names (HO)
+
+(/usr/local/texlive/2009/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+Package: infwarerr 2007/09/09 v1.2 Providing info/warning/message (HO)
+)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+)
+(/usr/local/texlive/2009/texmf-dist/tex/latex/latexconfig/hyperref.cfg
+File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
+)
+(/usr/local/texlive/2009/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2009/08/13 v3.4 Keyval support for LaTeX options (HO)
+
+(/usr/local/texlive/2009/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
+Package: kvsetkeys 2009/07/30 v1.5 Key value parser with default handler suppor
+t (HO)
+))
+Package hyperref Info: Option `final' set `true' on input line 2864.
+Package hyperref Info: Option `bookmarks' set `true' on input line 2864.
+Package hyperref Info: Option `colorlinks' set `true' on input line 2864.
+Package hyperref Info: Option `breaklinks' set `true' on input line 2864.
+Package hyperref Info: Hyper figures OFF on input line 2975.
+Package hyperref Info: Link nesting OFF on input line 2980.
+Package hyperref Info: Hyper index ON on input line 2983.
+Package hyperref Info: Plain pages OFF on input line 2990.
+Package hyperref Info: Backreferencing ON on input line 2993.
+
+Implicit mode ON; LaTeX internals redefined
+Package hyperref Info: Bookmarks ON on input line 3191.
+(/usr/local/texlive/2009/texmf-dist/tex/latex/hyperref/backref.sty
+Package: backref 2006/09/05 v1.28 Bibliographical back referencing
+)
+LaTeX Info: Redefining \url on input line 3428.
+
+(/usr/local/texlive/2009/texmf-dist/tex/generic/oberdiek/bitset.sty
+Package: bitset 2007/09/28 v1.0 Data type bit set (HO)
+
+(/usr/local/texlive/2009/texmf-dist/tex/generic/oberdiek/intcalc.sty
+Package: intcalc 2007/09/27 v1.1 Expandable integer calculations (HO)
+)
+(/usr/local/texlive/2009/texmf-dist/tex/generic/oberdiek/bigintcalc.sty
+Package: bigintcalc 2007/11/11 v1.1 Expandable big integer calculations (HO)
+
+(/usr/local/texlive/2009/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
+Package: pdftexcmds 2009/09/23 v0.6 LuaTeX support for pdfTeX utility functions
+ (HO)
+
+(/usr/local/texlive/2009/texmf-dist/tex/generic/oberdiek/ifluatex.sty
+Package: ifluatex 2009/04/17 v1.2 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+(/usr/local/texlive/2009/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+Package: ltxcmds 2009/08/05 v1.0 Some LaTeX kernel commands for general use (HO
+)
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+)))
+\Fld@menulength=\count108
+\Field@Width=\dimen123
+\Fld@charsize=\dimen124
+\Field@toks=\toks22
+Package hyperref Info: Hyper figures OFF on input line 4377.
+Package hyperref Info: Link nesting OFF on input line 4382.
+Package hyperref Info: Hyper index ON on input line 4385.
+Package hyperref Info: backreferencing ON on input line 4390.
+Package hyperref Info: Link coloring ON on input line 4395.
+Package hyperref Info: Link coloring with OCG OFF on input line 4402.
+Package hyperref Info: PDF/A mode OFF on input line 4407.
+
+(/usr/local/texlive/2009/texmf-dist/tex/generic/oberdiek/atbegshi.sty
+Package: atbegshi 2008/07/31 v1.9 At begin shipout hook (HO)
+)
+\Hy@abspage=\count109
+\c@Item=\count110
+\c@Hfootnote=\count111
+)
+*hyperref using driver hpdftex*
+(/usr/local/texlive/2009/texmf-dist/tex/latex/hyperref/hpdftex.def
+File: hpdftex.def 2009/10/09 v6.79a Hyperref driver for pdfTeX
+\Fld@listcount=\count112
+)
+(/usr/local/texlive/2009/texmf-dist/tex/latex/microtype/microtype.sty
+Package: microtype 2009/03/27 v2.3d Micro-typography with pdfTeX (RS)
+\MT@toks=\toks23
+\MT@count=\count113
+LaTeX Info: Redefining \lsstyle on input line 1608.
+LaTeX Info: Redefining \lslig on input line 1608.
+\MT@outer@space=\skip105
+LaTeX Info: Redefining \textls on input line 1616.
+\MT@outer@kern=\dimen125
+LaTeX Info: Redefining \textmicrotypecontext on input line 2167.
+Package microtype Info: Loading configuration file microtype.cfg.
+
+(/usr/local/texlive/2009/texmf-dist/tex/latex/microtype/microtype.cfg
+File: microtype.cfg 2009/03/27 v2.3d microtype main configuration file (RS)
+)))
+\c@definition=\count114
+
+(/usr/local/texlive/2009/texmf-dist/tex/latex/wrapfig/wrapfig.sty
+\wrapoverhang=\dimen126
+\WF@size=\dimen127
+\c@WF@wrappedlines=\count115
+\WF@box=\box28
+\WF@everypar=\toks24
+Package: wrapfig 2003/01/31  v 3.6
+)
+(/usr/local/texlive/2009/texmf-dist/tex/latex/listings/listings.sty
+\lst@mode=\count116
+\lst@gtempboxa=\box29
+\lst@token=\toks25
+\lst@length=\count117
+\lst@currlwidth=\dimen128
+\lst@column=\count118
+\lst@pos=\count119
+\lst@lostspace=\dimen129
+\lst@width=\dimen130
+\lst@newlines=\count120
+\lst@lineno=\count121
+\lst@maxwidth=\dimen131
+
+(/usr/local/texlive/2009/texmf-dist/tex/latex/listings/lstmisc.sty
+File: lstmisc.sty 2007/02/22 1.4 (Carsten Heinz)
+\c@lstnumber=\count122
+\lst@skipnumbers=\count123
+\lst@framebox=\box30
+)
+(/usr/local/texlive/2009/texmf-dist/tex/latex/listings/listings.cfg
+File: listings.cfg 2007/02/22 1.4 listings configuration
+))
+Package: listings 2007/02/22 1.4 (Carsten Heinz)
+
+(/usr/local/texlive/2009/texmf-dist/tex/latex/tools/verbatim.sty
+Package: verbatim 2003/08/22 v1.5q LaTeX2e package for verbatim enhancements
+\every@verbatim=\toks26
+\verbatim@line=\toks27
+\verbatim@in@stream=\read2
+) (./thesis.aux (./chapters/chap1/chap1.aux) (./chapters/chap2/chap2.aux)
+(./chapters/chap3/chap3.aux) (./chapters/chap4/chap4.aux
+
+LaTeX Warning: Label `sub:f\IeC {\H o}oldal' multiply defined.
+
+))
+\openout1 = `thesis.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for T3/cmr/m/n on input line 13.
+LaTeX Font Info:    Try loading font information for T3+cmr on input line 13.
+ (/usr/local/texlive/2009/texmf-dist/tex/latex/tipa/t3cmr.fd
+File: t3cmr.fd 2001/12/31 TIPA font definitions
+)
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+
+(/usr/local/texlive/2009/texmf-dist/tex/context/base/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count124
+\scratchdimen=\dimen132
+\scratchbox=\box31
+\nofMPsegments=\count125
+\nofMParguments=\count126
+\everyMPshowfont=\toks28
+\MPscratchCnt=\count127
+\MPscratchDim=\dimen133
+\MPnumerator=\count128
+\everyMPtoPDFconversion=\toks29
+)
+
+Package jurabib Info: *** jurabib set up for babel ***
+
+
+Package jurabib Warning: The language you declared as babel main language
+(jurabib)                is not yet supported by jurabib, please contact 
+(jurabib)                the maintainer! We're using english as the default now
+..
+
+(/usr/local/texlive/2009/texmf-dist/tex/latex/jurabib/enjbbib.ldf
+File: enjbbib.ldf jurabib English language definitions
+)
+Package hyperref Info: Link coloring ON on input line 13.
+
+(/usr/local/texlive/2009/texmf-dist/tex/latex/hyperref/nameref.sty
+Package: nameref 2007/05/29 v2.31 Cross-referencing by name of section
+
+(/usr/local/texlive/2009/texmf-dist/tex/latex/oberdiek/refcount.sty
+Package: refcount 2008/08/11 v3.1 Data extraction from references (HO)
+)
+\c@section@level=\count129
+)
+LaTeX Info: Redefining \ref on input line 13.
+LaTeX Info: Redefining \pageref on input line 13.
+
+(./thesis.out) (./thesis.out)
+\@outlinefile=\write4
+\openout4 = `thesis.out'.
+
+Package backref Info: ** backref set up for natbib ** on input line 13.
+\AtBeginShipoutBox=\box32
+LaTeX Info: Redefining \microtypecontext on input line 13.
+Package microtype Info: Generating PDF output.
+Package microtype Info: Character protrusion enabled (level 2).
+Package microtype Info: Using default protrusion set `alltext'.
+Package microtype Info: Automatic font expansion enabled (level 2),
+(microtype)             stretch: 20, shrink: 20, step: 1, non-selected.
+Package microtype Info: Using default expansion set `basictext'.
+Package microtype Info: No tracking.
+Package microtype Info: No adjustment of interword spacing.
+Package microtype Info: No adjustment of character kerning.
+
+(/usr/local/texlive/2009/texmf-dist/tex/latex/microtype/mt-cmr.cfg
+File: mt-cmr.cfg 2008/02/29 v1.9a microtype config. file: Computer Modern Roman
+ (RS)
+)
+\c@lstlisting=\count130
+
+<./logo.jpg, id=146, 411.5375pt x 412.54124pt>
+File: ./logo.jpg Graphic file (type jpg)
+ <use ./logo.jpg> [1
+
+
+{/usr/local/texlive/2009/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./logo.
+jpg>]
+LaTeX Font Info:    Try loading font information for T1+phv on input line 60.
+
+(/usr/local/texlive/2009/texmf-dist/tex/latex/psnfss/t1phv.fd
+File: t1phv.fd 2001/06/04 scalable font definitions for T1/phv.
+) [2
+
+]
+(./thesis.toc [3])
+\tf@toc=\write5
+\openout5 = `thesis.toc'.
+
+ [4]
+\openout2 = `chapters/chap1/chap1.aux'.
+
+ (./chapters/chap1/chap1.tex
+1. fejezet.
+) [5
+
+
+]
+\openout2 = `chapters/chap2/chap2.aux'.
+
+ (./chapters/chap2/chap2.tex [6
+
+
+
+]
+2. fejezet.
+
+Package hyperref Warning: The anchor of a bookmark and its parent's must not
+(hyperref)                be the same. Added a new anchor on input line 38.
+
+<chapters/chap2/login_sketch.jpg, id=226, 577.15625pt x 378.41376pt>
+File: chapters/chap2/login_sketch.jpg Graphic file (type jpg)
+
+<use chapters/chap2/login_sketch.jpg> [7 <./chapters/chap2/login_sketch.jpg>]
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 72.
+
+(/usr/local/texlive/2009/texmf-dist/tex/latex/base/omscmr.fd
+File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 72.
+ [8]
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\H' on input line 125.
+
+
+Package hyperref Warning: The anchor of a bookmark and its parent's must not
+(hyperref)                be the same. Added a new anchor on input line 133.
+
+[9]) [10]
+\openout2 = `chapters/chap3/chap3.aux'.
+
+ (./chapters/chap3/chap3.tex
+3. fejezet.
+
+Package hyperref Warning: The anchor of a bookmark and its parent's must not
+(hyperref)                be the same. Added a new anchor on input line 38.
+
+<chapters/chap3/cs.jpg, id=248, 406.51875pt x 323.70938pt>
+File: chapters/chap3/cs.jpg Graphic file (type jpg)
+
+<use chapters/chap3/cs.jpg> [11
+
+
+
+ <./chapters/chap3/cs.jpg>]
+<chapters/chap3/appserver.jpg, id=253, 404.51125pt x 476.78125pt>
+File: chapters/chap3/appserver.jpg Graphic file (type jpg)
+
+<use chapters/chap3/appserver.jpg> [12 <./chapters/chap3/appserver.jpg>]
+
+Package hyperref Warning: The anchor of a bookmark and its parent's must not
+(hyperref)                be the same. Added a new anchor on input line 81.
+
+[13]
+LaTeX Font Info:    Try loading font information for T1+cmtt on input line 123.
+
+ (/usr/local/texlive/2009/texmf-dist/tex/latex/base/t1cmtt.fd
+File: t1cmtt.fd 1999/05/25 v2.5h Standard LaTeX font definitions
+)
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\H' on input line 145.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\H' on input line 145.
+
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 150.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 150.
+[14] [15]
+
+Package hyperref Warning: The anchor of a bookmark and its parent's must not
+(hyperref)                be the same. Added a new anchor on input line 208.
+
+[16] [17]
+
+Package hyperref Warning: The anchor of a bookmark and its parent's must not
+(hyperref)                be the same. Added a new anchor on input line 312.
+
+[18] (/usr/local/texlive/2009/texmf-dist/tex/latex/listings/lstlang1.sty
+File: lstlang1.sty 2004/09/05 1.3 listings language file
+)
+Package hyperref Info: bookmark level for unknown lstlisting defaults to 0 on i
+nput line 326.
+
+(./chapters/chap3/database.yml)
+<chapters/chap3/db.png, id=307, 603.25375pt x 279.0425pt>
+File: chapters/chap3/db.png Graphic file (type png)
+
+<use chapters/chap3/db.png>
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[19] [20 <./chapters/chap3/db.png>] [21]) [22]
+\openout2 = `chapters/chap4/chap4.aux'.
+
+ (./chapters/chap4/chap4.tex
+4. fejezet.
+
+Package hyperref Warning: The anchor of a bookmark and its parent's must not
+(hyperref)                be the same. Added a new anchor on input line 38.
+
+[23
+
+
+
+]
+
+Package hyperref Warning: The anchor of a bookmark and its parent's must not
+(hyperref)                be the same. Added a new anchor on input line 69.
+
+
+Overfull \hbox (25.89056pt too wide) in paragraph at lines 95--97
+[][]$\T1/cmtt/m/n/10 http : / / wiki . postgresql . org / wiki / Running _ %26 
+_ Installing _ PostgreSQL _
+ []
+
+
+Overfull \hbox (11.61954pt too wide) in paragraph at lines 97--99
+[][]$\T1/cmtt/m/n/10 http : / / hocuspokus . net / 2008 / 05 / install-[]postgr
+esql-[]on-[]ubuntu-[]804/$[][] 
+ []
+
+[24]
+Overfull \hbox (4.37082pt too wide) in paragraph at lines 122--124
+[][]$\T1/cmtt/m/n/10 http : / / docs . geoserver . org / stable / en / user / i
+nstallation / windows /
+ []
+
+
+Overfull \hbox (22.74133pt too wide) in paragraph at lines 124--126
+[][]$\T1/cmtt/m/n/10 http : / / docs . geoserver . org / stable / en / user / i
+nstallation / linux / index .
+ []
+
+
+Overfull \hbox (12.2439pt too wide) in paragraph at lines 126--128
+[][]$\T1/cmtt/m/n/10 http : / / docs . geoserver . org / stable / en / user / i
+nstallation / osx / index .
+ []
+
+
+Overfull \hbox (5.42056pt too wide) in paragraph at lines 128--130
+[][]$\T1/cmtt/m/n/10 http : / / docs . geoserver . org / stable / en / user / i
+nstallation / war . html$[][] 
+ []
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\H' on input line 143.
+
+[25]
+
+LaTeX Warning: Characters dropped after `\end{verbatim}' on input line 160.
+
+
+Package hyperref Warning: The anchor of a bookmark and its parent's must not
+(hyperref)                be the same. Added a new anchor on input line 176.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\H' on input line 176.
+
+<chapters/chap4/main.png, id=365, 1284.8pt x 710.655pt>
+File: chapters/chap4/main.png Graphic file (type png)
+
+<use chapters/chap4/main.png>
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[26] <chapters/chap4/register.png, id=370, 462.72874pt x 404.51125pt>
+File: chapters/chap4/register.png Graphic file (type png)
+
+<use chapters/chap4/register.png>
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<chapters/chap4/login.png, id=371, 462.72874pt x 350.30875pt>
+File: chapters/chap4/login.png Graphic file (type png)
+
+<use chapters/chap4/login.png>
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[27 <./chapters/chap4/main.png (PNG copy)>]
+<chapters/chap4/cam_main.png, id=376, 1282.7925pt x 710.655pt>
+File: chapters/chap4/cam_main.png Graphic file (type png)
+
+<use chapters/chap4/cam_main.png>
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<chapters/chap4/cam_edit.png, id=377, 567.11874pt x 252.945pt>
+File: chapters/chap4/cam_edit.png Graphic file (type png)
+
+<use chapters/chap4/cam_edit.png>
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[28 <./chapters/chap4/register.png (PNG copy)> <./chapters/chap4/login.png (PNG
+ copy)>] <chapters/chap4/scenario_main.png, id=382, 1281.78876pt x 702.625pt>
+File: chapters/chap4/scenario_main.png Graphic file (type png)
+
+<use chapters/chap4/scenario_main.png>
+<chapters/chap4/scenario_view.png, id=383, 1283.79625pt x 707.64375pt>
+File: chapters/chap4/scenario_view.png Graphic file (type png)
+
+<use chapters/chap4/scenario_view.png>
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<chapters/chap4/scenario_cams.png, id=384, 1190.4475pt x 613.29124pt>
+File: chapters/chap4/scenario_cams.png Graphic file (type png)
+
+<use chapters/chap4/scenario_cams.png>
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[29 <./chapters/chap4/cam_main.png (PNG copy)> <./chapters/chap4/cam_edit.png (
+PNG copy)> <./chapters/chap4/scenario_main.png (PNG copy)>]
+<chapters/chap4/help_geom.png, id=389, 954.56625pt x 387.4475pt>
+File: chapters/chap4/help_geom.png Graphic file (type png)
+
+<use chapters/chap4/help_geom.png>) [30 <./chapters/chap4/scenario_view.png (PN
+G copy)> <./chapters/chap4/scenario_cams.png (PNG copy)> <./chapters/chap4/help
+_geom.png (PNG copy)>] (./thesis.aux (./chapters/chap1/chap1.aux)
+(./chapters/chap2/chap2.aux) (./chapters/chap3/chap3.aux)
+(./chapters/chap4/chap4.aux))
+
+LaTeX Warning: There were multiply-defined labels.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 11970 strings out of 493848
+ 175398 string characters out of 3149207
+ 308669 words of memory out of 3000000
+ 14836 multiletter control sequences out of 15000+200000
+ 27095 words of font info for 95 fonts, out of 3000000 for 9000
+ 714 hyphenation exceptions out of 8191
+ 45i,11n,45p,777b,1249s stack positions out of 5000i,500n,10000p,200000b,50000s
+{/usr/local/texlive/2009/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}
+{/usr/local/texlive/2009/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/tex
+live/2009/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texl
+ive/2009/texmf-dist/fonts/type1/public/cm-super/sfbx1000.pfb></usr/local/texliv
+e/2009/texmf-dist/fonts/type1/public/cm-super/sfbx1200.pfb></usr/local/texlive/
+2009/texmf-dist/fonts/type1/public/cm-super/sfbx1440.pfb></usr/local/texlive/20
+09/texmf-dist/fonts/type1/public/cm-super/sfbx2074.pfb></usr/local/texlive/2009
+/texmf-dist/fonts/type1/public/cm-super/sfbx2488.pfb></usr/local/texlive/2009/t
+exmf-dist/fonts/type1/public/cm-super/sfcc1000.pfb></usr/local/texlive/2009/tex
+mf-dist/fonts/type1/public/cm-super/sfcc2488.pfb></usr/local/texlive/2009/texmf
+-dist/fonts/type1/public/cm-super/sfrm0600.pfb></usr/local/texlive/2009/texmf-d
+ist/fonts/type1/public/cm-super/sfrm0700.pfb></usr/local/texlive/2009/texmf-dis
+t/fonts/type1/public/cm-super/sfrm0800.pfb></usr/local/texlive/2009/texmf-dist/
+fonts/type1/public/cm-super/sfrm1000.pfb></usr/local/texlive/2009/texmf-dist/fo
+nts/type1/public/cm-super/sfrm1200.pfb></usr/local/texlive/2009/texmf-dist/font
+s/type1/public/cm-super/sfss1000.pfb></usr/local/texlive/2009/texmf-dist/fonts/
+type1/public/cm-super/sfsx1000.pfb></usr/local/texlive/2009/texmf-dist/fonts/ty
+pe1/public/cm-super/sfti1000.pfb></usr/local/texlive/2009/texmf-dist/fonts/type
+1/public/cm-super/sftt1000.pfb></usr/local/texlive/2009/texmf-dist/fonts/type1/
+urw/helvetic/uhvb8a.pfb>
+Output written on thesis.pdf (30 pages, 2812553 bytes).
+PDF statistics:
+ 466 PDF objects out of 1000 (max. 8388607)
+ 50 named destinations out of 1000 (max. 500000)
+ 25511 words of extra memory for PDF output out of 29859 (max. 10000000)
+

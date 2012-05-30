@@ -1,0 +1,44 @@
+\BOOKMARK [0][-]{chapter*.1}{Bevezet\351s}{}
+\BOOKMARK [0][-]{chapter*.1}{K\366vetelm\351ny le\355r\341s}{}
+\BOOKMARK [1][-]{section*.2}{Funkcion\341lis k\366vetelm\351nyek}{chapter*.1}
+\BOOKMARK [2][-]{section*.2}{Felhaszn\341l\363i kezel\351s}{chapter*.1}
+\BOOKMARK [2][-]{section*.2}{Kamera kezel\351s}{chapter*.1}
+\BOOKMARK [2][-]{section*.2}{Esem\351ny kezel\351s}{chapter*.1}
+\BOOKMARK [2][-]{section*.2}{S\372g\363}{chapter*.1}
+\BOOKMARK [2][-]{section*.2}{Fooldal}{chapter*.1}
+\BOOKMARK [1][-]{section*.2}{Nem funkcion\341lis k\366vetelm\351ny}{chapter*.1}
+\BOOKMARK [2][-]{section*.3}{Term\351k k\366vetelm\351ny}{section*.2}
+\BOOKMARK [2][-]{section*.3}{Szervezeti k\366vetelm\351ny}{section*.2}
+\BOOKMARK [0][-]{section*.3}{Rendszerterv}{}
+\BOOKMARK [1][-]{section*.4}{Kliens Szerver architekt\372ra}{section*.3}
+\BOOKMARK [1][-]{section*.4}{Adatt\341rol\341s}{section*.3}
+\BOOKMARK [2][-]{section*.5}{MySQL}{section*.4}
+\BOOKMARK [2][-]{section*.5}{Spatialite}{section*.4}
+\BOOKMARK [2][-]{section*.5}{PostgreSQL - Postgis}{section*.4}
+\BOOKMARK [1][-]{section*.5}{Kliens oldali vektoros megjelen\355to \351s szerkeszto}{section*.3}
+\BOOKMARK [1][-]{section*.5}{Webes keretrendszer}{section*.3}
+\BOOKMARK [2][-]{section*.6}{Akelos}{section*.5}
+\BOOKMARK [2][-]{section*.6}{JEE}{section*.5}
+\BOOKMARK [2][-]{section*.6}{Flash CS4}{section*.5}
+\BOOKMARK [2][-]{section*.6}{Ruby on Rails}{section*.5}
+\BOOKMARK [1][-]{section*.6}{Projekt strukt\372ra}{section*.3}
+\BOOKMARK [2][-]{section*.7}{db k\366nyvt\341r}{section*.6}
+\BOOKMARK [2][-]{lstlisting.3.-1}{app k\366nyvt\341r}{section*.6}
+\BOOKMARK [2][-]{lstlisting.3.-1}{public k\366nyvt\341r}{section*.6}
+\BOOKMARK [1][-]{lstlisting.3.-1}{T\351rk\351p szerver}{section*.3}
+\BOOKMARK [0][-]{lstlisting.3.-1}{Felhaszn\341l\363i le\355r\341s}{}
+\BOOKMARK [1][-]{section*.8}{Hardver k\366vetelm\351nyek}{lstlisting.3.-1}
+\BOOKMARK [1][-]{section*.8}{Alkalmaz\341s telep\355t\351se \351s ind\355t\341sa}{lstlisting.3.-1}
+\BOOKMARK [2][-]{section*.9}{Ruby interpreter telep\355t\351se}{section*.8}
+\BOOKMARK [2][-]{section*.9}{Rails telep\355t\351se}{section*.8}
+\BOOKMARK [2][-]{section*.9}{PostgreSQL \351s Postgis telep\355t\351se}{section*.8}
+\BOOKMARK [2][-]{section*.9}{GeoServer telep\355t\351se}{section*.8}
+\BOOKMARK [2][-]{section*.9}{Forr\341sk\363d kl\363noz\341sa}{section*.8}
+\BOOKMARK [2][-]{section*.9}{Kieg\351sz\355to Gem csomagok telep\355t\351se}{section*.8}
+\BOOKMARK [2][-]{section*.9}{Alkalmaz\341s ind\355t\341sa}{section*.8}
+\BOOKMARK [1][-]{section*.9}{Alkalmaz\341s haszn\341lata}{lstlisting.3.-1}
+\BOOKMARK [2][-]{section*.10}{Fooldal}{section*.9}
+\BOOKMARK [2][-]{section*.10}{Bejelentkez\351s \351s regisztr\341ci\363}{section*.9}
+\BOOKMARK [2][-]{section*.10}{Kamera n\351zet}{section*.9}
+\BOOKMARK [2][-]{section*.10}{Esem\351ny n\351zet}{section*.9}
+\BOOKMARK [2][-]{section*.10}{Help n\351zet}{section*.9}

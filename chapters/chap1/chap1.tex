@@ -1,0 +1,40 @@
+\makeatletter
+\def\thickhrulefill{\leavevmode \leaders \hrule height 1ex \hfill \kern \z@}
+\def\@makechapterhead#1{%
+  \vspace*{10\p@}%
+  {\parindent \z@ \centering \reset@font
+        {\Huge \scshape \thechapter}
+        \par\nobreak
+        \vspace*{15\p@}%
+        \interlinepenalty\@M
+        \begin{tabular}{@{\qquad}c@{\qquad}}
+          \hline
+          \\
+          {\Huge \bfseries #1\par\nobreak} \\
+          \\
+          \hline
+        \end{tabular}
+    \vskip 100\p@
+  }}
+\def\@makeschapterhead#1{%
+  \vspace*{10\p@}%
+  {\parindent \z@ \centering \reset@font
+        {\Huge \scshape \vphantom{\thechapter}}
+        \par\nobreak
+        \vspace*{15\p@}%
+        \interlinepenalty\@M
+        \begin{tabular}{@{\qquad}c@{\qquad}}
+          \hline
+          \\
+          {\Huge \bfseries #1\par\nobreak} \\
+          \\
+          \hline
+        \end{tabular}
+    \vskip 100\p@
+  }}
+
+\chapter{Bevezetés}
+  A térfigyelő kamerák egyre nagyobb figyelmet igényelnek a mindennapi életünkben. Kamerák nyomon követnek és rögzítenek eseményeket, amelyeket megfigyelhetünk, esetleg később megtekinthetjük.
+  
+  
+  Azonban nem mindig tudjuk, hogy az adott kamera a térben pontosan hol helyezkedik, milyen állapotban van, és mekkora a látómezője. Ha térkép alapokra tudnánk helyezni egy kamerával kapcsolatos térbeli adatait, akkor sokkal könnyebben lehetne nyomonkövetni állapotukat karbantartási szempontból, helyzet változtatásukról, ezáltal könnyebben tudnánk tájékoztatni a felhasználóit.

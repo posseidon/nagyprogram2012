@@ -1,0 +1,70 @@
+\documentclass[final]{book}
+\usepackage{yanthese}
+% Figures
+\usepackage{wrapfig}
+% Url and Hyperlinks
+\usepackage{hyperref}
+% Code Listing
+\usepackage{listings}
+% Verbatim
+\usepackage{verbatim}
+
+
+\begin{document}
+	\begin{titlepage}
+
+	\begin{center}
+
+
+	% Upper part of the page
+	\includegraphics[width=0.25\textwidth]{./logo}\\[1cm]
+
+	\textsc{ Eötvös Loránd Tudományegyetem \\
+	Informatikai Kar
+	\\
+	Térképtudományi és Geoinformatikai Tanszék
+	}\\[2.5cm]
+	
+
+	
+	% Title
+	{ \huge \bfseries Térfigyelő kamera nyilvántartó alkalmazás}\\[0.4cm]
+	
+	\textsc{Nagyprogram dokumentáció}\\[2.5cm]
+	
+	% Author and supervisor
+	\begin{minipage}{0.4\textwidth}
+	\begin{flushleft}
+	\emph{Hallgató:}\\
+	\textsc{Nguyen} Thai Binh
+	\end{flushleft}
+	\end{minipage}
+	\begin{minipage}{0.4\textwidth}
+	\begin{flushright}
+	\emph{Témavezető:} \\
+	Dr. \textsc{Gede} Mátyás
+	\end{flushright}
+	\end{minipage}
+
+	\vfill
+
+	% Bottom of the page
+	{\large \today}
+
+	\end{center}
+
+	\end{titlepage}
+	
+
+	% Include table of contents
+	\tableofcontents
+	
+	\include{chapters/chap1/chap1}
+
+	\include{chapters/chap2/chap2}
+	
+	\include{chapters/chap3/chap3}
+	
+	\include{chapters/chap4/chap4}
+
+\end{document}
